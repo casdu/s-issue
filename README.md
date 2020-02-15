@@ -11,3 +11,9 @@ list goes on...
 Please comment anything you have and make suggestions.
 
 The security issue to all casduer is the most important thing.
+
+
+
+# Ref:
+
+https://github.com/discourse/discourse/blob/master/docs/SECURITY.md
