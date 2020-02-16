@@ -2,7 +2,7 @@
 
 - any token/password
 
-- personal information? (birthday,hometown,...)
+- personal information? (name in real life, birthday, hometown,...)
 
 list goes on...
 
