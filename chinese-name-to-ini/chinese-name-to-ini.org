@@ -1,0 +1,5 @@
+* name matching
+https://github.com/hltcoe/mingpipe
+
+* generation
+https://github.com/gumblex/chinesename
