@@ -24,8 +24,8 @@ For non-expert users, usability is very important. Try:
 
 For experts, you can try:
 
-- git crypt: https://www.agwa.name/projects/git-crypt/
-- GPG tools
+- [git crypt](https://www.agwa.name/projects/git-crypt/)
+- [GPG tools](https://gnupg.org/)
 
 # Ref:
 
