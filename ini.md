@@ -26,6 +26,7 @@ For experts, you can try:
 
 - [git crypt](https://www.agwa.name/projects/git-crypt/)
 - [GPG tools](https://gnupg.org/)
+  https://gnupg.org/faq/gnupg-faq.html#whats_gnupg
 
 # Ref:
 
