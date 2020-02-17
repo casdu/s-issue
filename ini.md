@@ -16,7 +16,10 @@ please encrypt your sensitive information before uploading them to the cloud use
 
 For non-expert users, usability is very important. Try:
 
-- Olvid / Signal for encrypted message (I prefer the first one)
+## Olvid / Signal for encrypted message
+
+- what is end-to-end encrypted?
+
 - Keybase for both message and encrypted storage (like git)
 
 For experts, you can try:
