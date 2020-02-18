@@ -18,7 +18,7 @@ For non-expert users, usability is very important. Try:
 
 ## Olvid / Signal for encrypted message
 
-- what is end-to-end encrypted?
+- what is [end-to-end](https://en.wikipedia.org/wiki/End-to-end_principle) encrypted?
 
 - Keybase for both message and encrypted storage (like git)
 
