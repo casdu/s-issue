@@ -8,4 +8,9 @@ https://github.com/gumblex/chinesename
 https://github.com/fxsjy/jieba
 
 c++ version
+
 https://github.com/yanyiwu/cppjieba
+
+elisp version
+
+https://github.com/cireu/jieba.el
