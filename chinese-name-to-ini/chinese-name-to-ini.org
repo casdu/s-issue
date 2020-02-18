@@ -6,3 +6,6 @@ https://github.com/gumblex/chinesename
 
 * jieba
 https://github.com/fxsjy/jieba
+
+c++ version
+https://github.com/yanyiwu/cppjieba
