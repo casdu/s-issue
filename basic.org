@@ -1,3 +1,10 @@
+> I don’t consider myself an expert in security, so take my statements with a grain of salt.
+ 
+  borrow: from 
+  
+  https://discourse.paraview.org/t/pvserver-security-risk/3582/10?u=randomwangran
+  
+  
 # what is cookie?
 
 Cookies are small bits of information that stateless protocols like HTTP use to maintain some persistent information across requests.
