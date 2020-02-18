@@ -1,0 +1,16 @@
+# what is cookie?
+
+Cookies are small bits of information that stateless protocols like HTTP use to maintain some persistent information across requests.
+
+
+I [saw](https://github.com/manateelazycat/emacs-application-framework/blob/9c3e7a7f9389a5c2b6d6a10125833f88cbcf3577/core/browser.py#L24) you using '[QNetworkCookie](https://wiki.qt.io/About_Qt)'
+
+
+It seems to me, this package might track some information across requests.
+
+
+> [The fundamental notion behind the end-to-end principle is that, for two processes communicating with each other via some communication means, the reliability obtained from that means cannot be expected to be perfectly aligned with the reliability requirements of the processes.](https://en.wikipedia.org/wiki/End-to-end_principle)
+
+
+This is volidate the fundamental notation?
+
