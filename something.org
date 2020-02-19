@@ -37,4 +37,4 @@ Native Code Crash Course
 其中 Programming languages 居然没有对 Elisp 或者是 Lisp 的介绍,而我日常所用的程序也大都是 c++ / elisp 语言写的.
 
 
-所以想向大家请教一下, https://www.hacker101.com/ ?
+所以想向大家请教一下, https://www.hacker101.com/ worth or not?
