@@ -50,4 +50,5 @@ https://github.com/discourse/discourse/blob/master/docs/SECURITY.md
 
 https://cryptobib.di.ens.fr/
 
+https://www.hacker101.com/resources#2
 
