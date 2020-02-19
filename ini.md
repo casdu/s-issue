@@ -52,3 +52,5 @@ https://cryptobib.di.ens.fr/
 
 https://www.hacker101.com/resources#2
 
+https://github.com/Hacker0x01/hacker101
+
