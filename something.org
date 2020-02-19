@@ -29,3 +29,12 @@ Mobile Hacking Crash Course
 Android Quickstart
 iOS Quickstart
 Native Code Crash Course
+
+
+大家好,最近对网络安全很感兴趣.发现了这个 hacker101.com 网站.
+
+
+其中 Programming languages 居然没有对 Elisp 或者是 Lisp 的介绍,而我日常所用的程序也大都是 c++ / elisp 语言写的.
+
+
+所以想向大家请教一下, https://www.hacker101.com/ ?
